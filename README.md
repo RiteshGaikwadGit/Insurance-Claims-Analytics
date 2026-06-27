@@ -78,6 +78,21 @@ Business Insights
 
 ---
 
+# 📈 Power BI Dashboard
+
+Interactive dashboard developed using Power BI featuring dynamic filters, KPI cards, and visual analytics.
+
+![Power BI Dashboard](Images/powerbi_dashboard.png)
+
+
+# 📉 Tableau Dashboard
+
+A Tableau dashboard was created to validate insights and provide an additional interactive reporting experience.
+
+![Tableau Dashboard](Images/tableau_dashboard.png)
+
+
+
 # 💻 SQL Implementation
 
 The database was created in MySQL and SQL queries were written to calculate business KPIs and generate insights.
@@ -86,25 +101,7 @@ The database was created in MySQL and SQL queries were written to calculate busi
 
 ![SQL Database](Images/Sql%20Database%20Query.png)
 
-### KPI Queries
-
-![SQL Queries](Images/Query.png)
-
 ---
-
-# 📈 Power BI Dashboard
-
-Interactive dashboard developed using Power BI featuring dynamic filters, KPI cards, and visual analytics.
-
-![Power BI Dashboard](Images/powerbi_dashboard.png)
-
----
-
-# 📉 Tableau Dashboard
-
-A Tableau dashboard was created to validate insights and provide an additional interactive reporting experience.
-
-![Tableau Dashboard](Images/tableau_dashboard.png)
 
 ---
 
